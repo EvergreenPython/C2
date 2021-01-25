@@ -11,11 +11,13 @@ Used to perform mathematical operations, __(AKA. Arithmetic operations)__
 
 *Ex.* 
 `print (2 + 1)`
-  > 3 
+> 3 
+
 `print(5 % 3)`
-  > 2
+> 2
+  
 `print(2 ** 3)`
-  > 8 
+> 8 
 
 ## Assignment Operators
 Used to assign values to variables
